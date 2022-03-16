@@ -54,3 +54,21 @@ h3{
     width: 100%;
     color: white;
 }
+  
+.header{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+
+}
+
+h4{
+    top: 50%;
+    text-align: center;
+}
+
+img{
+ border-radius: 5%;
+}
+
+

@@ -1,1 +1,1 @@
-$(document).r
+$(document)
