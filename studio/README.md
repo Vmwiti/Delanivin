@@ -1,6 +1,6 @@
  DELANI STUDIO
 
-A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. 
+A web application  called Delani Studio showing deatails which it contains such as services they offer,what they do and a lot more things.
 
 [![akan.png](https://i.postimg.cc/sg8FYQKc/akan.png)](https://postimg.cc/G4kSrpW8)
 
