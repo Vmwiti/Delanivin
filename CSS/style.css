@@ -1,0 +1,40 @@
+html{scroll-behavior: smooth;}
+.landing{
+  background-image: url(../images/cup.jpeg);  
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(28, 228, 28);
+  text-align: center;
+  padding-top:17%; 
+  font-family: 'Gabriela', serif;
+}
+.about{
+    text-align: center;
+    color: rgb(92, 5, 255);
+}
+.hello{
+    background-image: url(../images/qar.jpeg);
+    background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #e02121;
+  text-align: center;
+  padding-top:17%; 
+  font-family: 'Gabriela', serif;
+}
+.hello p1{
+color: black;
+font-family: Arial;
+}
+.card{
+    background-color: #db0c9d;
+}
+h2{
+    text-align: center; 
+    color: blue;
+}
+.col-md-3:hover{
+    display: flex;
+    background-color: aqua;
+}
